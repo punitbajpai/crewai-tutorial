@@ -1,0 +1,9 @@
+crewai[tools]
+langchain
+langchain-groq
+crewai[google-genai]
+litellm
+fastapi
+duckduckgo-search
+langchain_community
+langchain_tavily
